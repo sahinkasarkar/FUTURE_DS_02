@@ -82,7 +82,7 @@ This project demonstrates practical skills in:
 ### Churn Overview Dashboard (Page 1)
 ![Dashboard 1](Dashboard_Page1.png)
 
-### Retention & Cohort Analysis Dashboard (Page 2)
+### Customer Retention & Cohort Analysis Dashboard (Page 2)
 ![Dashboard 2](Dashboard_Page2.png)
 
 ## Author
