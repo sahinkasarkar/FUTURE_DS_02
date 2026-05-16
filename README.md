@@ -31,11 +31,11 @@ Dataset Link:  [
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ## Project Workflow
-- Data cleaning and preprocessing using Excel Power Query  
-- Pivot Table analysis in Excel  
-- Churn and retention analysis using Python  
-- Dashboard creation in Power BI  
-- Cohort and customer lifetime analysis  
+1. Data cleaning and preprocessing using Excel Power Query  
+2. Pivot Table analysis in Excel  
+3. Churn and retention analysis using Python  
+4. Dashboard creation in Power BI  
+5. Cohort and customer lifetime analysis  
 
 ## Key Insights
 - Month-to-month customers showed the highest churn rate
