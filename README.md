@@ -16,8 +16,8 @@ This project analyzes customer churn and retention behavior for a subscription-b
 ## Dataset Used
 Telco Customer Churn Dataset (Kaggle)
 
-Dataset Link:  
-https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+Dataset Link:  [
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ## Project Workflow
 1. Data cleaning and preprocessing using Excel Power Query  
